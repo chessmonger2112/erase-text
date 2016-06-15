@@ -1,0 +1,12 @@
+h1{
+  color: red;
+}
+
+#eraser{
+  color: white;
+  background-color: white;
+  position: absolute;
+  top : 80px;
+  width: 100%;
+  opacity: 1;
+}
